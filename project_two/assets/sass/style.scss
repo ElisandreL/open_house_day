@@ -1,22 +1,8 @@
 @import 'reset/reset';
-
+@import 'navbar/navbar';
 * {
     box-sizing: border-box;
 }
 html, body {
     height: 100%;
-}
-nav {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    li {
-        padding: 0 2% 0 1%;
-        list-style: none;
-        &:first-child {
-            margin-left: 3%;
-        }
-    }
-    background-color: aqua;
-    height: 10vh;
 }

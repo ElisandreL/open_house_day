@@ -1,0 +1,38 @@
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        background-color: black;
+        width: 12vw;
+        height: 100vh;
+        img {
+            height: 150px;
+            margin: -10px 0 20px 0;
+        }
+
+        li {
+            list-style: none;
+            height: 6em;
+            padding-top: 2em;
+            
+            &:hover {
+                background-color: white;
+                width: 12vw;
+                text-align: center;
+                
+                
+                a {
+                color: black;
+                }
+            }
+            a {
+                color: white;
+                text-decoration: none;
+                font-size: 25px;
+                letter-spacing: 8px;
+            }
+            
+        }
+                
+}
