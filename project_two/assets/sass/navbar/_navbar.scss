@@ -1,4 +1,4 @@
-    nav {
+    header nav {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -8,7 +8,7 @@
         height: 100vh;
         img {
             height: 150px;
-            margin: -10px 0 20px 0;
+            margin: -1rem 0 1rem 0;
         }
 
         li {
@@ -20,7 +20,6 @@
                 background-color: white;
                 width: 12vw;
                 text-align: center;
-                
                 
                 a {
                 color: black;

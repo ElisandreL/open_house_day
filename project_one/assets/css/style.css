@@ -131,6 +131,7 @@ label {
   position: relative;
   z-index: 1;
   text-align: center;
+  line-height: 100vh;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
