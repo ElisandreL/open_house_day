@@ -10,5 +10,6 @@ Sass and HTML
 
 ## Github pages : 
 [Project one](https://elisandrel.github.io/open_house_day/project_one/)
+
 [Project two](https://elisandrel.github.io/open_house_day/project_two/)
 
